@@ -1,2 +1,2 @@
-# sambu.9589-gmail.com
-Mastering-Python
+# Programming-In-Python
+This repo is for learning and mastering programming in Python
